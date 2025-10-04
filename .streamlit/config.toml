@@ -1,0 +1,7 @@
+# .streamlit/config.toml
+[theme]
+primaryColor = "#6C63FF"                 # 포인트 컬러 (보라 계열)
+backgroundColor = "#FFFFFF"              # 메인 배경
+secondaryBackgroundColor = "#F7F7FB"    # 사이드바 등 서브 배경
+textColor = "#1C1C1C"                    # 텍스트 색상
+font = "sans serif"                      # 폰트 (기본)
